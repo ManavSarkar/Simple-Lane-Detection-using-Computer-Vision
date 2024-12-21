@@ -13,7 +13,7 @@ https://github.com/user-attachments/assets/7af18436-cab4-4800-ba86-19982ccbf7dd
 This algorithm implements a computer vision pipeline to detect road lane boundaries and visualize them on video frames. By using advanced image processing techniques and geometric transformations, the system can estimate lane curvature and the vehicle's position relative to the center.
 
 
-https://github.com/user-attachments/assets/4465a10d-af08-434f-9df7-7618138bcd37
+https://github.com/user-attachments/assets/2ed6a1fb-7c65-4eba-a25a-75a606bed547
 
 
 ## File Structure
